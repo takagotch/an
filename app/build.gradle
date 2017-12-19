@@ -1,0 +1,7 @@
+apply plugin: 'com.android.application'
+
+adnroid [
+compileSdkVersion 25
+buildToolVersion '25.0.0'
+]
+
